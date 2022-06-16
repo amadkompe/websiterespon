@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/websiterespon/static/js/main.c8d0cc1c.js",
+    "index.html": "/websiterespon/index.html",
+    "main.c8d0cc1c.js.map": "/websiterespon/static/js/main.c8d0cc1c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8d0cc1c.js"
+  ]
+}
